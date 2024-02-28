@@ -27,7 +27,6 @@ ul {
     border-top: none;
     border-bottom: 1px solid black;
     border-radius: 0px 0px 4px 4px ;
-    width: 35vh;
 }
 
 li {
@@ -48,6 +47,7 @@ a {
     text-decoration: none;
     font-weight: bold;
     color: black;
+    width: 35vw;
 }
 
 .container {
