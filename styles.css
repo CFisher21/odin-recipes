@@ -1,12 +1,51 @@
 /* styles.css */
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    margin-top: 16px;
+}
 body {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#title { 
+    margin: 16px;
+    margin-left: 8px;
+}
+
+.grey-box {
+    background-color: #D1D1D1;
+    padding: 4px;
+    padding-left: 48px;
+    padding-right: 48px;
+}
+
+.description {
+    margin: 16px;
+    margin-left: 8px;
+}
+
+.ingredients {
+    margin: 16px;
+    margin-left: 8px;
+}
+
+#ingredients-list {
+    list-style: circle;
+    margin-left: 24px;
+}
+
+.steps {
+    margin: 16px;
+    margin-left: 8px;
 }
 
 #dropdown-button {
     box-sizing: content-box;
-    border: 2px solid black;
-    background-color: gray;
+    border: 2px solid #636363;
+    background-color: #D1D1D1;
     width: 300px;
     height: 40px;
     font-weight: bold;
@@ -14,9 +53,17 @@ body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: black;
     cursor: pointer;
-    padding: 0;
-    margin: 0;
+    margin-top: 8px;
     border-radius: 4px 4px 0px 0px ;
+}
+
+h3 , h2 {
+    margin-bottom: 8px;
+}
+
+ol {
+    margin-left: 8px;
+    padding-left: 8px;
 }
 
 ul { 
@@ -26,11 +73,13 @@ ul {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-a {
-    border-bottom: 2px solid black;
-    border-left: 2px solid black;
-    border-right: 2px solid black;
-    background-color: gray;
+
+
+#list-menu {
+    border-bottom: 2px solid #636363;
+    border-left: 2px solid #636363;
+    border-right: 2px solid #636363;
+    background-color: #D1D1D1;
     padding-top: 0;
     padding-bottom: 0;
     padding-right: 0;
@@ -57,11 +106,11 @@ a {
     }
 }
 
-#end-menu {
+.end-menu {
     border-radius: 0px 0px 4px 4px;
 }
 
-.container {
+.center {
     display: flex;
     justify-content: center;
 }
@@ -72,4 +121,22 @@ a {
 
 #menu-list {
     transition: all 0.3s;
+}
+
+#container2 {
+    background-color: #85C7F2;
+    height: 100vh;
+    border: solid #636363 2px;
+    border-top: none;
+}
+
+img {
+    border: 2px solid #636363;
+    margin: 8px;
+    margin-left: 48px;
+    margin-bottom: 48px;
+}
+
+.background-color {
+    background-color: #85C7F2;
 }
