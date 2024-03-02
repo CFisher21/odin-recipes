@@ -29,6 +29,7 @@ body {
     padding: 4px;
     padding-left: 48px;
     padding-right: 48px;
+    width: 55vw;
 }
 
 .description {
@@ -105,6 +106,7 @@ ul {
 }
 img {
     border: 2px solid #636363;
+    margin: 0;
 }
 
 @media (max-width: 500px) {
@@ -119,13 +121,16 @@ img {
         margin: 0;
         margin-bottom: 16px;
     }
+    .grey-box {
+        width: auto;
+    }
 }
 
 @media (min-width: 500px) {
 
     img {
         margin: 8px;
-        margin-left: 48px;
+        margin-left: 8px;
         margin-bottom: 48px;
     }
 }
