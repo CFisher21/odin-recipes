@@ -28,11 +28,11 @@ Responsive Design: The website is designed to be responsive, ensuring compatibil
 
 ## Screenshots
 ### Menu Desktop
-![Imgur](https://imgur.com/4YeArcr)
+![Imgur](https://i.imgur.com/4YeArcr.png)
 ### Recipe Desktop 
-![Imgur](https://imgur.com/11vWQVj)
+![Imgur](https://i.imgur.com/11vWQVj.png)
 ### Menu Mobile
-![Imgur](https://imgur.com/Yf6or8e)
+![Imgur](https://i.imgur.com/Yf6or8e.png)
 ### Recipe Desktop
-![Imgur](https://imgur.com/2aZow5N)
+![Imgur](https://i.imgur.com/2aZow5N.png)
 
