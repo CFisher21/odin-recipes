@@ -1,7 +1,8 @@
 # odin-recipes
 
+Website:[Odin Recipes](https://cfisher21.github.io/odin-recipes/) \
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) \
-[Odin Recipes](https://cfisher21.github.io/odin-recipes/)
+
 
 
 ## Description
