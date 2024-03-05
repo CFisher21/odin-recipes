@@ -2,7 +2,10 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) \
 Website: [Odin Recipes](https://cfisher21.github.io/odin-recipes/) 
 
-
+## Contact Information
+- Email: fishercody23@gmail.com
+- LinkedIn: https://www.linkedin.com/in/fishercody21/
+- Twitter: https://twitter.com/codyfiisher
 
 ## Description
 The website serves as a platform designed to practice HTML and CSS skills while showcasing a collection of recipes. With a clean and user-friendly interface, it aims to provide easy access to a variety of recipes for users to explore and try out in their own kitchens. The minimalist design focuses on simplicity and functionality, allowing visitors to quickly browse through the recipes and find inspiration for their next culinary adventure. Moreover, the website is optimized to work seamlessly on both computer displays and mobile devices, ensuring that users can access recipes conveniently from any device, whether they're at home or on the go.
@@ -22,3 +25,14 @@ Responsive Design: The website is designed to be responsive, ensuring compatibil
 **HTML**: Used to structure the content of the website, including headings, paragraphs, lists, and links.\
 **CSS**: Utilized for styling and layout purposes, including color schemes, fonts, spacing, and responsiveness.\
 **JavaScript**: Used for the "Menu" to make it responsive and dynamic.
+
+## Screenshots
+### Menu Desktop
+![Imgur](https://imgur.com/4YeArcr)
+### Recipe Desktop 
+![Imgur](https://imgur.com/11vWQVj)
+### Menu Mobile
+![Imgur](https://imgur.com/Yf6or8e)
+### Recipe Desktop
+![Imgur](https://imgur.com/2aZow5N)
+
