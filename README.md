@@ -1,6 +1,6 @@
 # odin-recipes
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) \
 [Odin Recipes](https://cfisher21.github.io/odin-recipes/)
 
 
@@ -20,6 +20,6 @@ Responsive Design: The website is designed to be responsive, ensuring compatibil
 5. Right click on index.html and click "Open with live server".
 
 ## Technologies Used
-HTML: Used to structure the content of the website, including headings, paragraphs, lists, and links.
-CSS: Utilized for styling and layout purposes, including color schemes, fonts, spacing, and responsiveness.
+HTML: Used to structure the content of the website, including headings, paragraphs, lists, and links.\
+CSS: Utilized for styling and layout purposes, including color schemes, fonts, spacing, and responsiveness.\
 JavaScript: Used for the "Menu" to make it responsive and dynamic.
