@@ -12,11 +12,6 @@ Recipe Display: The main function of the website is to display a curated selecti
 Navigation: Users can easily navigate between different recipes using intuitive navigation menus or buttons, making it effortless to explore various dishes.
 Responsive Design: The website is designed to be responsive, ensuring compatibility across various devices and screen sizes, allowing users to access recipes conveniently from desktops, tablets, and smartphones.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-
 ## Installation
 1. Install Git: If you haven't already, download and install Git from https://git-scm.com/.
 2. Clone the Repository: Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, use the git clone command followed by the repository URL. For example: "git clone https://github.com/CFisher21/odin-recipes.git"
