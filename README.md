@@ -13,13 +13,12 @@ Navigation: Users can easily navigate between different recipes using intuitive 
 Responsive Design: The website is designed to be responsive, ensuring compatibility across various devices and screen sizes, allowing users to access recipes conveniently from desktops, tablets, and smartphones.
 
 ## Installation
-1. Install Git: If you haven't already, download and install Git from https://git-scm.com/.
-2. Clone the Repository: Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, use the git clone command followed by the repository URL. For example: "git clone https://github.com/CFisher21/odin-recipes.git"
-3. Navigate to the Cloned Directory: Once the cloning process is complete, navigate into the cloned directory using the cd command: "cd repository"
-4. Run a Live Server: There are various ways to run a live server, depending on the technology stack of the project. I recommend using VSCode and installing the extension [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-5. Right click on index.html and click "Open with live server".
+1. **Install Git**: If you haven't already, download and install Git from https://git-scm.com/.
+2. **Clone the Repository**: Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, use the git clone command followed by the repository URL. For example: "git clone https://github.com/CFisher21/odin-recipes.git"
+3. **Navigate to the Cloned Directory**: Once the cloning process is complete, navigate into the cloned directory using the cd command: "cd repository"
+4. **Run a Live Server**: There are various ways to run a live server, depending on the technology stack of the project. I recommend using VSCode and installing the extension [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Install it and Right click on index.html and click "Open with live server".
 
 ## Technologies Used
-HTML: Used to structure the content of the website, including headings, paragraphs, lists, and links.\
-CSS: Utilized for styling and layout purposes, including color schemes, fonts, spacing, and responsiveness.\
-JavaScript: Used for the "Menu" to make it responsive and dynamic.
+**HTML**: Used to structure the content of the website, including headings, paragraphs, lists, and links.\
+**CSS**: Utilized for styling and layout purposes, including color schemes, fonts, spacing, and responsiveness.\
+**JavaScript**: Used for the "Menu" to make it responsive and dynamic.
