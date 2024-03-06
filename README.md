@@ -1,4 +1,4 @@
-# odin-recipes
+## odin-recipes
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) \
 Website: [Odin Recipes](https://cfisher21.github.io/odin-recipes/) 
 
@@ -33,6 +33,6 @@ Responsive Design: The website is designed to be responsive, ensuring compatibil
 ![Imgur](https://i.imgur.com/11vWQVj.png)
 ### Menu Mobile
 ![Imgur](https://i.imgur.com/Yf6or8e.png)
-### Recipe Desktop
+### Recipe Mobile
 ![Imgur](https://i.imgur.com/2aZow5N.png)
 
